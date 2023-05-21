@@ -1,0 +1,35 @@
+{
+  "hotelInfo_services_text": [
+    { "name": "Indoor pool" },
+    { "name": "24-hour fitness center" },
+    { "name": "Massage therapy" },
+    { "name": "Full service spa" },
+    { "name": "In-room jacuzzi tubs" },
+    { "name": "Rooftop café & smoothie bar" },
+    { "name": "Coffee bar & pastry shop" },
+    { "name": "Traditional continental breakfast" },
+    { "name": "24-hour concierge service" },
+    { "name": "Business center" },
+    { "name": "Complimentary wireless service" },
+    { "name": "Laundry & dry cleaning service" },
+    { "name": "Daily paper" },
+    { "name": "Certified \"green\" hotel" },
+    { "name": "Pet-friendly rooms & common areas" }
+  ],
+
+  "hotelInfo_amenities_text": [
+    { "name": "Grab bars on tub walls" },
+    { "name": "Shower chairs" },
+    { "name": "Hand held shower sprayers" },
+    { "name": "Higher toilets & toilet modifiers" },
+    { "name": "Lower sink faucet handles" },
+    { "name": "Wheelchair clearance under sinks & vanity" },
+    { "name": "Lower racks in closet" },
+    { "name": "TDD machines" },
+    { "name": "Telephone light signalers & smoke alarms" },
+    { "name": "Telephone amplification handsets" },
+    { "name": "Closed captioned television converters" },
+    { "name": "Vibrating alarm clocks" },
+    { "name": "Telephones with volume control" }
+  ]
+}

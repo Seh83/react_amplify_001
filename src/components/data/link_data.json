@@ -1,0 +1,86 @@
+{
+  "header_navbar_links": [
+    {
+      "class": "info",
+      "href": "#hotelinfo",
+      "text": "info"
+    },
+    {
+      "class": "rooms",
+      "href": "#rooms",
+      "text": "rooms"
+    },
+    {
+      "class": "dining",
+      "href": "#dining",
+      "text": "dining"
+    },
+    {
+      "class": "events",
+      "href": "#events",
+      "text": "events"
+    },
+    {
+      "class": "attractions",
+      "href": "#attractions",
+      "text": "attractions"
+    }
+  ],
+
+  "header_welcome_link": [
+    {
+      "src": "https://landonhotel.com/images/misc/arrow.png",
+      "href": "#welcome",
+      "alt": "down arrow"
+    }
+  ],
+
+  "welcome_galary_link": [
+    {
+      "src": "https://landonhotel.com/images/hotel/intro_room.jpg",
+      "alt": "Intro Gallery Room Sample Pictures",
+      "class": ""
+    },
+    {
+      "src": "https://landonhotel.com/images/hotel/intro_pool.jpg",
+      "alt": "Intro Gallery Pool Sample Pictures",
+      "class": ""
+    },
+    {
+      "src": "https://landonhotel.com/images/hotel/intro_dining.jpg",
+      "alt": "Intro Gallery Dining Sample Pictures",
+      "class": ""
+    },
+    {
+      "src": "https://landonhotel.com/images/hotel/intro_attractions.jpg",
+      "alt": "Intro Gallery Attractions Sample Pictures",
+      "class": ""
+    },
+    {
+      "src": "https://landonhotel.com/images/hotel/intro_wedding.jpg",
+      "alt": "Intro Gallery Dining Sample Pictures",
+      "class": "hidesm"
+    }
+  ],
+
+  "footer_socialMedia_link": [
+    {
+      "src": "https://landonhotel.com/images/socialmedia/twitter.png",
+      "alt": "icon for twitter",
+      "class": "icon",
+      "href": "https://twitter.com"
+    },
+    {
+      "src": "https://landonhotel.com/images/socialmedia/facebook.png",
+      "alt": "icon for facebook",
+      "class": "icon",
+      "href": "http://www.facebook.com"
+    },
+    {
+      "src": "https://landonhotel.com/images/socialmedia/youtube.png",
+      "alt": "icon for youtube",
+      "class": "icon",
+      "href": "http://www.youtube.com"
+    }
+  ]
+}
