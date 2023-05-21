@@ -5,8 +5,8 @@ const Welcome = () => {
     <div className="scene" id="welcome">
       <article className="content">
         <div className="gallery">
-          {linkData.welcome_galary_link.map((link) => (
-            <img src={link.src} alt={link.alt} className={link.class} />
+          {linkData.welcome_galary_link.map((social) => (
+            <img src={social.src} alt={social.alt} className={social.class} />
           ))}
         </div>
         <h1>Welcome to the Landon&nbsp;Hotel</h1>

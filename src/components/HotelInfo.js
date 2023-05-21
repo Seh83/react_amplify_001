@@ -44,8 +44,8 @@ const HotelInfo = () => {
             your stay comfortable, and your experience one-of-a-kind.
           </p>
           <ul>
-            {ServicesAmenitiesData.hotelInfo_services_text.map((info) => (
-              <li>{info.name}</li>
+            {ServicesAmenitiesData.hotelInfo_services_text.map((service) => (
+              <li>{service.name}</li>
             ))}
           </ul>
         </section>
@@ -58,8 +58,8 @@ const HotelInfo = () => {
           </p>
           <ul>
             <ul>
-              {ServicesAmenitiesData.hotelInfo_amenities_text.map((info) => (
-                <li>{info.name}</li>
+              {ServicesAmenitiesData.hotelInfo_amenities_text.map((amenity) => (
+                <li>{amenity.name}</li>
               ))}
             </ul>
           </ul>
