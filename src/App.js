@@ -5,7 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img
+          src="https://th.bing.com/th/id/OIP.UlHs7iTYFBy_OGw1OvcZAwHaK2?pid=ImgDet&rs=1"
+          className="App-logo"
+          alt="logo"
+        />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
