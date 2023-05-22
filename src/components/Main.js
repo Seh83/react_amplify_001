@@ -1,6 +1,6 @@
-import React from "react";
-import Welcome from "./Welcome";
-import HotelInfo from "./HotelInfo";
+import React from 'react';
+import HotelInfo from './HotelInfo'
+import Welcome from './Welcome.js'
 
 const Main = () => {
   return (
@@ -9,6 +9,6 @@ const Main = () => {
       <HotelInfo />
     </main>
   );
-};
+}
 
 export default Main;
